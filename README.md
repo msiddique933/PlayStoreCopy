@@ -1,4 +1,4 @@
-# Play Store Copy — Android Assignment
+# Play Store Copy — Android Assignment for HackerRank
 
 A simplified Google Play Store clone built with **Jetpack Compose**, **Clean Architecture**, and a **multi-module Gradle** structure.
 
